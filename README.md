@@ -10,6 +10,7 @@ Voice Alerts: For accessibility, a voice alert announces the nearest fuel statio
 <ul><li>As you can see the<b> above screenshot</b> where the Fuel alert pop-up,Map redirection is been displayed.
 <li>Live Tracking: The system continuously tracks the vehicle's location.'</i>.
 <li>Fuel Station Selection: Once the user selects a fuel station, the system redirects them to the exact location on the map.'</i>.
+<li>Timed Pop-Ups & Alerts: Additional fuel station alerts appear during breakfast, lunch, and dinner times, ensuring timely fuel stops'</i>.
 <li>Simultaneous Map Redirection: While showing pop-ups, it also redirects to a map view for better visualization.</ul>
 <p><img src="Fuel_Alert.png" align="center" height="350">
 <img src="Selecting_fuelstation.png" align="center" height="350">
