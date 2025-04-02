@@ -1,16 +1,15 @@
 # Fuel-Station-Alert-System
 Fuel Station Alert System is a Python-based application that suggests the three nearest fuel stations to users. It provides pop-up notifications and voice alerts for quick assistance, ensuring a smooth refueling experience.
 <h3>Logic of project</h3>
-The project includes direct working with the 68 facial landmark detector and also the face detector of the Dlib library.
-The 68 facial landmark detector is a robustly trained efficient detector which detects the points on the human face using which 
-we determine whether the eyes are open or they are closed.</br></br>
+The project includes direct working with the Google Maps.
+Voice Alerts: For accessibility, a voice alert announces the nearest fuel stations, ensuring users don't have to read the pop-ups manually.</br></br>
 <center><img src="Avilable_fuelstations.png" align="center" height="350"></center>
 
 
 <h3>The working of the project</h3>
-<ul><li>As you can see the<b> above screenshot</b> where the landmarks aredetected using the detector.
-<li>Now we are taking the ratio which is described as <i>'Sum of distances of vertical landmarks divided by twice the distance between horizontal landmarks'</i>.
-<li>Now this ratio is totally dependent on your system which you may configure accordingly for the thresholds of sleeping, drowsy, active.</ul>
+<ul><li>As you can see the<b> above screenshot</b> where the Fuel alert pop-up,Map redirection is been displayed.
+<li>Live Tracking: The system continuously tracks the vehicle's location.'</i>.
+<li>Simultaneous Map Redirection: While showing pop-ups, it also redirects to a map view for better visualization.</ul>
 <p><img src="Fuel_Alert.png" align="center" height="350">
 <img src="Selecting_fuelstation.png" align="center" height="350">
 <img src="Fuelstation.png" align="center" height="350">
